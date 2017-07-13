@@ -46,7 +46,7 @@
     "redux": "^3.5.2",
     "reselect": "^2.5.4",
     "rickshaw": "1.6.0",
-    "weave-scope": "https://s3.amazonaws.com/weaveworks-js-modules/weave-scope/9aefbc9a/weave-scope.tgz",
+    "weave-scope": "https://s3.amazonaws.com/weaveworks-js-modules/weave-scope/31e1cc3f/weave-scope.tgz",
     "weaveworks-ui-components": "git+https://github.com/weaveworks/ui-components.git#v0.1.23"
   },
   "devDependencies": {
